@@ -1,3 +1,4 @@
+/*醉仙美化 QQ874824173*/
 // JavaScript Document
 var Dianji=0;
 window.onload=function(){
