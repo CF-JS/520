@@ -5,7 +5,7 @@
 @media screen and (min-width:501px){
 .box{
 		width: 600px;
-  background-image: url(https://img.vim-cn.com/9c/5de313b06e8ba29a11f1d5309669f94abe04f8.jpg);		border-radius: 10px;
+  background-image: url(../images/3.jpg);		border-radius: 10px;
 		margin: 0 auto;
 		color: aliceblue;
 		 margin: auto;
@@ -67,7 +67,7 @@
 @media screen and (max-width:500px){
 	.box{
 		width: 100%;
-  background-image: url(https://img.vim-cn.com/9c/5de313b06e8ba29a11f1d5309669f94abe04f8.jpg);	
+  background-image: url(../images/3.jpg);	
 		margin: 0 auto;
 		color: black;
 		 margin: auto;
