@@ -12,8 +12,8 @@ var Qixi = function() {
         audio: {
 			id:"WxPlayMusic",
             enable: true,
-            playURl: "music/happy.mp3",
-            cycleURL: "music/circulation.mp3"
+            playURl: "https://ai.bbai520.com/520/love05/music/happy.mp3",
+            cycleURL: "https://ai.bbai520.com/520/love05/music/circulation.mp3"
         },
         setTime: {
             walkToThird: 6000,
